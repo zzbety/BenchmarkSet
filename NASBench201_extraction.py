@@ -2,7 +2,7 @@
 # 5^6 = 15625 configurations
 # 6 hps: [hp_x0	hp_x1 hp_x2	hp_x3 hp_x4	hp_x5] 
 # 7 performances: ['metric_valid_error', 'metric_train_error', 'metric_runtime', 'metric_elapsed_time', 'metric_latency', 'metric_flops', 'metric_params']
-# 1, 12, 36, 200 epochs
+# 1, 12, 36, 200 epochs.
 
 import itertools
 import pandas as pd
